@@ -1,4 +1,4 @@
-# ==PORTFOLIO==.
+# == PORTFOLIO ==.
 
 ## Name:- VABHAV BHATEJA
 ![alt text](image.jpg)
@@ -26,7 +26,7 @@ Sports                  :- Football,Cricket
 ## Certifications
 ### excel courese
 <br>
-![alt text](excel.jpg)
+![alt text].(certificate.png).
 
 ## Contact Information
 Email :- vabhavbhateja@gmail.com
