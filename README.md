@@ -2,16 +2,15 @@
 
 ## Name:- VABHAV BHATEJA
 ![alt text](image.jpg)
+<br>
  Greetings,I am Vabhav Bhateja, a passionate B.Tech Computer Science and Engineering student with the passion of learning and the exploring the tech field  
 
 ## 4. Academices
 
-| ------------- |:-------------:| -----:|  
 | Education     | year          | score |
 | ------------- |:-------------:| -----:|
 |marticulatiom  | 2020          | 90.4%|
 |secondary education| 2024          | 90.4% |
-| ------------- |:-------------:| -----:|
 
 ## Education
 Degree Pursuing :- B.Tech Computer Science and Engineering
