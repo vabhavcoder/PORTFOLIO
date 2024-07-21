@@ -23,9 +23,9 @@ Soft Skills     :- Communication, teamwork, problem-solving, etc
 9. Extracurricular Activities
 Clubs and Organizations :- NCC
 Sports                  :- Football,Cricket
-10. Certifications
-<br>
+## Certifications
 ###excel courese
+<br>
 ![alt text](excel.jpg)
 
 ## Contact Information
