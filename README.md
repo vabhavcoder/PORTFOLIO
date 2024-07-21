@@ -24,7 +24,7 @@ Soft Skills     :- Communication, teamwork, problem-solving, etc
 Clubs and Organizations :- NCC
 Sports                  :- Football,Cricket
 ## Certifications
-###excel courese
+### excel courese
 <br>
 ![alt text](excel.jpg)
 
