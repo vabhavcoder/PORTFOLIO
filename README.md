@@ -13,15 +13,18 @@
 |secondary education| 2024          | 90.4% |
 
 ## Education
-Degree Pursuing :- B.Tech Computer Science and Engineering
+Degree Pursuing :- B.Tech Computer Science and Engineering 
+<br>
 Institution     :- Guru Nanak dev Engineering College
 
 ## Skills
 Technical Skills:- HTML,PYTHON And Learning C
+<br>
 Soft Skills     :- Communication, teamwork, problem-solving, etc
 
 9. Extracurricular Activities
 Clubs and Organizations :- NCC
+<br>
 Sports                  :- Football,Cricket
 ## Certifications
 ### excel courese
